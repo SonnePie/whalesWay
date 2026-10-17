@@ -10,7 +10,7 @@ import {
   MapPin,
   Grid,
 } from 'lucide-react';
-
+import whale from '../assets/images/whale_underwater_sun_1792243434633.jpg'
 interface MainLandingScreenProps {
   onSelectFreePlan: () => void;
   onSelectBridge: () => void;
@@ -25,7 +25,7 @@ export const MainLandingScreen: React.FC<MainLandingScreenProps> = ({
       {/* FULLSCREEN BACKGROUND IMAGE WITH MARITIME OVERLAYS */}
       <div className="fixed inset-0 z-0 overflow-hidden pointer-events-none">
         <img
-          src="/src/assets/images/whale_underwater_sun_1792243434633.jpg"
+          src={whale}
           alt="Whale underwater in Icelandic waters"
           className="w-full h-full object-cover object-center filter brightness-[0.72] contrast-[1.12]"
         />
