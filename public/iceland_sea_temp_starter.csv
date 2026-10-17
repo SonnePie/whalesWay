@@ -1,0 +1,951 @@
+date,site,latitude,longitude,sea_temp_c,kind
+2026-04-16,Eastfjords,64.917,-13.167,2.75,analysis
+2026-04-17,Eastfjords,64.917,-13.167,2.83,analysis
+2026-04-18,Eastfjords,64.917,-13.167,2.82,analysis
+2026-04-19,Eastfjords,64.917,-13.167,2.89,analysis
+2026-04-20,Eastfjords,64.917,-13.167,2.96,analysis
+2026-04-21,Eastfjords,64.917,-13.167,3.02,analysis
+2026-04-22,Eastfjords,64.917,-13.167,3.1,analysis
+2026-04-23,Eastfjords,64.917,-13.167,3.16,analysis
+2026-04-24,Eastfjords,64.917,-13.167,3.19,analysis
+2026-04-25,Eastfjords,64.917,-13.167,3.18,analysis
+2026-04-26,Eastfjords,64.917,-13.167,3.26,analysis
+2026-04-27,Eastfjords,64.917,-13.167,3.29,analysis
+2026-04-28,Eastfjords,64.917,-13.167,3.23,analysis
+2026-04-29,Eastfjords,64.917,-13.167,3.25,analysis
+2026-04-30,Eastfjords,64.917,-13.167,3.31,analysis
+2026-05-01,Eastfjords,64.917,-13.167,3.39,analysis
+2026-05-02,Eastfjords,64.917,-13.167,3.48,analysis
+2026-05-03,Eastfjords,64.917,-13.167,3.49,analysis
+2026-05-04,Eastfjords,64.917,-13.167,3.47,analysis
+2026-05-05,Eastfjords,64.917,-13.167,3.45,analysis
+2026-05-06,Eastfjords,64.917,-13.167,3.42,analysis
+2026-05-07,Eastfjords,64.917,-13.167,3.38,analysis
+2026-05-08,Eastfjords,64.917,-13.167,3.32,analysis
+2026-05-09,Eastfjords,64.917,-13.167,3.36,analysis
+2026-05-10,Eastfjords,64.917,-13.167,3.35,analysis
+2026-05-11,Eastfjords,64.917,-13.167,3.42,analysis
+2026-05-12,Eastfjords,64.917,-13.167,3.44,analysis
+2026-05-13,Eastfjords,64.917,-13.167,3.42,analysis
+2026-05-14,Eastfjords,64.917,-13.167,3.52,analysis
+2026-05-15,Eastfjords,64.917,-13.167,3.56,analysis
+2026-05-16,Eastfjords,64.917,-13.167,3.59,analysis
+2026-05-17,Eastfjords,64.917,-13.167,3.61,analysis
+2026-05-18,Eastfjords,64.917,-13.167,3.6,analysis
+2026-05-19,Eastfjords,64.917,-13.167,3.68,analysis
+2026-05-20,Eastfjords,64.917,-13.167,3.66,analysis
+2026-05-21,Eastfjords,64.917,-13.167,3.68,analysis
+2026-05-22,Eastfjords,64.917,-13.167,3.73,analysis
+2026-05-23,Eastfjords,64.917,-13.167,3.83,analysis
+2026-05-24,Eastfjords,64.917,-13.167,3.81,analysis
+2026-05-25,Eastfjords,64.917,-13.167,3.96,analysis
+2026-05-26,Eastfjords,64.917,-13.167,4.17,analysis
+2026-05-27,Eastfjords,64.917,-13.167,4.26,analysis
+2026-05-28,Eastfjords,64.917,-13.167,4.25,analysis
+2026-05-29,Eastfjords,64.917,-13.167,3.98,analysis
+2026-05-30,Eastfjords,64.917,-13.167,3.89,analysis
+2026-05-31,Eastfjords,64.917,-13.167,3.96,analysis
+2026-06-01,Eastfjords,64.917,-13.167,4.0,analysis
+2026-06-02,Eastfjords,64.917,-13.167,4.12,analysis
+2026-06-03,Eastfjords,64.917,-13.167,4.24,analysis
+2026-06-04,Eastfjords,64.917,-13.167,4.21,analysis
+2026-06-05,Eastfjords,64.917,-13.167,4.28,analysis
+2026-06-06,Eastfjords,64.917,-13.167,4.35,analysis
+2026-06-07,Eastfjords,64.917,-13.167,4.42,analysis
+2026-06-08,Eastfjords,64.917,-13.167,4.5,analysis
+2026-06-09,Eastfjords,64.917,-13.167,4.75,analysis
+2026-06-10,Eastfjords,64.917,-13.167,4.75,analysis
+2026-06-11,Eastfjords,64.917,-13.167,4.73,analysis
+2026-06-12,Eastfjords,64.917,-13.167,4.59,analysis
+2026-06-13,Eastfjords,64.917,-13.167,4.69,analysis
+2026-06-14,Eastfjords,64.917,-13.167,4.84,analysis
+2026-06-15,Eastfjords,64.917,-13.167,4.92,analysis
+2026-06-16,Eastfjords,64.917,-13.167,5.02,analysis
+2026-06-17,Eastfjords,64.917,-13.167,4.87,analysis
+2026-06-18,Eastfjords,64.917,-13.167,4.75,analysis
+2026-06-19,Eastfjords,64.917,-13.167,4.86,analysis
+2026-06-20,Eastfjords,64.917,-13.167,4.96,analysis
+2026-06-21,Eastfjords,64.917,-13.167,5.11,analysis
+2026-06-22,Eastfjords,64.917,-13.167,5.11,analysis
+2026-06-23,Eastfjords,64.917,-13.167,5.17,analysis
+2026-06-24,Eastfjords,64.917,-13.167,5.14,analysis
+2026-06-25,Eastfjords,64.917,-13.167,5.05,analysis
+2026-06-26,Eastfjords,64.917,-13.167,4.86,analysis
+2026-06-27,Eastfjords,64.917,-13.167,5.05,analysis
+2026-06-28,Eastfjords,64.917,-13.167,5.06,analysis
+2026-06-29,Eastfjords,64.917,-13.167,5.15,analysis
+2026-06-30,Eastfjords,64.917,-13.167,5.21,analysis
+2026-07-01,Eastfjords,64.917,-13.167,5.07,analysis
+2026-07-02,Eastfjords,64.917,-13.167,5.16,analysis
+2026-07-03,Eastfjords,64.917,-13.167,5.43,analysis
+2026-07-04,Eastfjords,64.917,-13.167,5.71,analysis
+2026-07-05,Eastfjords,64.917,-13.167,5.85,analysis
+2026-07-06,Eastfjords,64.917,-13.167,6.02,analysis
+2026-07-07,Eastfjords,64.917,-13.167,6.04,analysis
+2026-07-08,Eastfjords,64.917,-13.167,5.94,analysis
+2026-07-09,Eastfjords,64.917,-13.167,5.84,analysis
+2026-07-10,Eastfjords,64.917,-13.167,5.86,analysis
+2026-07-11,Eastfjords,64.917,-13.167,5.79,analysis
+2026-07-12,Eastfjords,64.917,-13.167,5.63,analysis
+2026-07-13,Eastfjords,64.917,-13.167,5.59,analysis
+2026-07-14,Eastfjords,64.917,-13.167,5.75,analysis
+2026-07-15,Eastfjords,64.917,-13.167,5.96,analysis
+2026-07-16,Eastfjords,64.917,-13.167,6.33,analysis
+2026-07-17,Eastfjords,64.917,-13.167,6.64,analysis
+2026-07-18,Eastfjords,64.917,-13.167,6.81,analysis
+2026-07-19,Eastfjords,64.917,-13.167,6.93,analysis
+2026-07-20,Eastfjords,64.917,-13.167,7.04,analysis
+2026-07-21,Eastfjords,64.917,-13.167,7.03,analysis
+2026-07-22,Eastfjords,64.917,-13.167,6.84,analysis
+2026-07-23,Eastfjords,64.917,-13.167,6.63,analysis
+2026-07-24,Eastfjords,64.917,-13.167,6.98,analysis
+2026-07-25,Eastfjords,64.917,-13.167,6.85,analysis
+2026-07-26,Eastfjords,64.917,-13.167,6.72,analysis
+2026-07-27,Eastfjords,64.917,-13.167,6.96,analysis
+2026-07-28,Eastfjords,64.917,-13.167,7.28,analysis
+2026-07-29,Eastfjords,64.917,-13.167,7.27,analysis
+2026-07-30,Eastfjords,64.917,-13.167,7.22,analysis
+2026-07-31,Eastfjords,64.917,-13.167,7.17,analysis
+2026-08-01,Eastfjords,64.917,-13.167,7.33,analysis
+2026-08-02,Eastfjords,64.917,-13.167,7.48,analysis
+2026-08-03,Eastfjords,64.917,-13.167,7.67,analysis
+2026-08-04,Eastfjords,64.917,-13.167,7.85,analysis
+2026-08-05,Eastfjords,64.917,-13.167,8.14,analysis
+2026-08-06,Eastfjords,64.917,-13.167,8.36,analysis
+2026-08-07,Eastfjords,64.917,-13.167,8.37,analysis
+2026-08-08,Eastfjords,64.917,-13.167,8.19,analysis
+2026-08-09,Eastfjords,64.917,-13.167,7.92,analysis
+2026-08-10,Eastfjords,64.917,-13.167,8.0,analysis
+2026-08-11,Eastfjords,64.917,-13.167,8.15,analysis
+2026-08-12,Eastfjords,64.917,-13.167,8.24,analysis
+2026-08-13,Eastfjords,64.917,-13.167,8.28,analysis
+2026-08-14,Eastfjords,64.917,-13.167,8.27,analysis
+2026-08-15,Eastfjords,64.917,-13.167,8.1,analysis
+2026-08-16,Eastfjords,64.917,-13.167,8.25,analysis
+2026-08-17,Eastfjords,64.917,-13.167,8.22,analysis
+2026-08-18,Eastfjords,64.917,-13.167,8.24,analysis
+2026-08-19,Eastfjords,64.917,-13.167,8.35,analysis
+2026-08-20,Eastfjords,64.917,-13.167,8.42,analysis
+2026-08-21,Eastfjords,64.917,-13.167,8.58,analysis
+2026-08-22,Eastfjords,64.917,-13.167,8.62,analysis
+2026-08-23,Eastfjords,64.917,-13.167,8.51,analysis
+2026-08-24,Eastfjords,64.917,-13.167,8.56,analysis
+2026-08-25,Eastfjords,64.917,-13.167,8.57,analysis
+2026-08-26,Eastfjords,64.917,-13.167,8.79,analysis
+2026-08-27,Eastfjords,64.917,-13.167,8.83,analysis
+2026-08-28,Eastfjords,64.917,-13.167,8.65,analysis
+2026-08-29,Eastfjords,64.917,-13.167,8.62,analysis
+2026-08-30,Eastfjords,64.917,-13.167,8.56,analysis
+2026-08-31,Eastfjords,64.917,-13.167,8.56,analysis
+2026-09-01,Eastfjords,64.917,-13.167,8.28,analysis
+2026-09-02,Eastfjords,64.917,-13.167,8.07,analysis
+2026-09-03,Eastfjords,64.917,-13.167,8.02,analysis
+2026-09-04,Eastfjords,64.917,-13.167,8.03,analysis
+2026-09-05,Eastfjords,64.917,-13.167,8.06,analysis
+2026-09-06,Eastfjords,64.917,-13.167,8.1,analysis
+2026-09-07,Eastfjords,64.917,-13.167,7.82,analysis
+2026-09-08,Eastfjords,64.917,-13.167,7.78,analysis
+2026-09-09,Eastfjords,64.917,-13.167,7.92,analysis
+2026-09-10,Eastfjords,64.917,-13.167,8.07,analysis
+2026-09-11,Eastfjords,64.917,-13.167,8.06,analysis
+2026-09-12,Eastfjords,64.917,-13.167,7.99,analysis
+2026-09-13,Eastfjords,64.917,-13.167,8.04,analysis
+2026-09-14,Eastfjords,64.917,-13.167,8.18,analysis
+2026-09-15,Eastfjords,64.917,-13.167,8.01,analysis
+2026-09-16,Eastfjords,64.917,-13.167,7.92,analysis
+2026-09-17,Eastfjords,64.917,-13.167,7.92,analysis
+2026-09-18,Eastfjords,64.917,-13.167,7.91,analysis
+2026-09-19,Eastfjords,64.917,-13.167,7.88,analysis
+2026-09-20,Eastfjords,64.917,-13.167,7.88,analysis
+2026-09-21,Eastfjords,64.917,-13.167,7.92,analysis
+2026-09-22,Eastfjords,64.917,-13.167,8.01,analysis
+2026-09-23,Eastfjords,64.917,-13.167,8.11,analysis
+2026-09-24,Eastfjords,64.917,-13.167,8.14,analysis
+2026-09-25,Eastfjords,64.917,-13.167,8.04,analysis
+2026-09-26,Eastfjords,64.917,-13.167,8.04,analysis
+2026-09-27,Eastfjords,64.917,-13.167,8.14,analysis
+2026-09-28,Eastfjords,64.917,-13.167,8.23,analysis
+2026-09-29,Eastfjords,64.917,-13.167,8.32,analysis
+2026-09-30,Eastfjords,64.917,-13.167,8.38,analysis
+2026-10-01,Eastfjords,64.917,-13.167,8.31,analysis
+2026-10-02,Eastfjords,64.917,-13.167,8.27,analysis
+2026-10-03,Eastfjords,64.917,-13.167,8.22,analysis
+2026-10-04,Eastfjords,64.917,-13.167,8.23,analysis
+2026-10-05,Eastfjords,64.917,-13.167,8.13,analysis
+2026-10-06,Eastfjords,64.917,-13.167,8.06,analysis
+2026-10-07,Eastfjords,64.917,-13.167,8.01,analysis
+2026-10-08,Eastfjords,64.917,-13.167,7.97,analysis
+2026-10-09,Eastfjords,64.917,-13.167,7.98,analysis
+2026-10-10,Eastfjords,64.917,-13.167,7.94,analysis
+2026-10-11,Eastfjords,64.917,-13.167,7.91,analysis
+2026-10-12,Eastfjords,64.917,-13.167,7.89,analysis
+2026-10-13,Eastfjords,64.917,-13.167,7.85,analysis
+2026-10-14,Eastfjords,64.917,-13.167,7.81,forecast
+2026-10-15,Eastfjords,64.917,-13.167,7.58,forecast
+2026-10-16,Eastfjords,64.917,-13.167,7.43,forecast
+2026-10-17,Eastfjords,64.917,-13.167,7.28,forecast
+2026-10-18,Eastfjords,64.917,-13.167,7.39,forecast
+2026-10-19,Eastfjords,64.917,-13.167,7.19,forecast
+2026-10-20,Eastfjords,64.917,-13.167,6.72,forecast
+2026-10-21,Eastfjords,64.917,-13.167,6.59,forecast
+2026-10-22,Eastfjords,64.917,-13.167,6.56,forecast
+2026-04-16,Faxaflói,64.333,-22.583,6.17,analysis
+2026-04-17,Faxaflói,64.333,-22.583,6.4,analysis
+2026-04-18,Faxaflói,64.333,-22.583,6.29,analysis
+2026-04-19,Faxaflói,64.333,-22.583,6.15,analysis
+2026-04-20,Faxaflói,64.333,-22.583,6.35,analysis
+2026-04-21,Faxaflói,64.333,-22.583,6.6,analysis
+2026-04-22,Faxaflói,64.333,-22.583,6.63,analysis
+2026-04-23,Faxaflói,64.333,-22.583,6.61,analysis
+2026-04-24,Faxaflói,64.333,-22.583,6.62,analysis
+2026-04-25,Faxaflói,64.333,-22.583,6.44,analysis
+2026-04-26,Faxaflói,64.333,-22.583,6.51,analysis
+2026-04-27,Faxaflói,64.333,-22.583,6.43,analysis
+2026-04-28,Faxaflói,64.333,-22.583,6.36,analysis
+2026-04-29,Faxaflói,64.333,-22.583,6.27,analysis
+2026-04-30,Faxaflói,64.333,-22.583,6.28,analysis
+2026-05-01,Faxaflói,64.333,-22.583,6.21,analysis
+2026-05-02,Faxaflói,64.333,-22.583,6.17,analysis
+2026-05-03,Faxaflói,64.333,-22.583,6.32,analysis
+2026-05-04,Faxaflói,64.333,-22.583,6.31,analysis
+2026-05-05,Faxaflói,64.333,-22.583,6.35,analysis
+2026-05-06,Faxaflói,64.333,-22.583,6.21,analysis
+2026-05-07,Faxaflói,64.333,-22.583,6.17,analysis
+2026-05-08,Faxaflói,64.333,-22.583,6.29,analysis
+2026-05-09,Faxaflói,64.333,-22.583,6.37,analysis
+2026-05-10,Faxaflói,64.333,-22.583,6.49,analysis
+2026-05-11,Faxaflói,64.333,-22.583,6.42,analysis
+2026-05-12,Faxaflói,64.333,-22.583,6.32,analysis
+2026-05-13,Faxaflói,64.333,-22.583,6.44,analysis
+2026-05-14,Faxaflói,64.333,-22.583,6.78,analysis
+2026-05-15,Faxaflói,64.333,-22.583,6.73,analysis
+2026-05-16,Faxaflói,64.333,-22.583,6.83,analysis
+2026-05-17,Faxaflói,64.333,-22.583,7.3,analysis
+2026-05-18,Faxaflói,64.333,-22.583,7.61,analysis
+2026-05-19,Faxaflói,64.333,-22.583,7.75,analysis
+2026-05-20,Faxaflói,64.333,-22.583,7.86,analysis
+2026-05-21,Faxaflói,64.333,-22.583,8.29,analysis
+2026-05-22,Faxaflói,64.333,-22.583,8.69,analysis
+2026-05-23,Faxaflói,64.333,-22.583,8.93,analysis
+2026-05-24,Faxaflói,64.333,-22.583,8.7,analysis
+2026-05-25,Faxaflói,64.333,-22.583,8.84,analysis
+2026-05-26,Faxaflói,64.333,-22.583,8.95,analysis
+2026-05-27,Faxaflói,64.333,-22.583,8.69,analysis
+2026-05-28,Faxaflói,64.333,-22.583,8.64,analysis
+2026-05-29,Faxaflói,64.333,-22.583,8.56,analysis
+2026-05-30,Faxaflói,64.333,-22.583,8.52,analysis
+2026-05-31,Faxaflói,64.333,-22.583,8.72,analysis
+2026-06-01,Faxaflói,64.333,-22.583,9.11,analysis
+2026-06-02,Faxaflói,64.333,-22.583,9.63,analysis
+2026-06-03,Faxaflói,64.333,-22.583,10.08,analysis
+2026-06-04,Faxaflói,64.333,-22.583,10.07,analysis
+2026-06-05,Faxaflói,64.333,-22.583,10.13,analysis
+2026-06-06,Faxaflói,64.333,-22.583,10.03,analysis
+2026-06-07,Faxaflói,64.333,-22.583,10.32,analysis
+2026-06-08,Faxaflói,64.333,-22.583,10.47,analysis
+2026-06-09,Faxaflói,64.333,-22.583,10.78,analysis
+2026-06-10,Faxaflói,64.333,-22.583,11.33,analysis
+2026-06-11,Faxaflói,64.333,-22.583,11.74,analysis
+2026-06-12,Faxaflói,64.333,-22.583,11.38,analysis
+2026-06-13,Faxaflói,64.333,-22.583,11.02,analysis
+2026-06-14,Faxaflói,64.333,-22.583,11.69,analysis
+2026-06-15,Faxaflói,64.333,-22.583,11.93,analysis
+2026-06-16,Faxaflói,64.333,-22.583,12.15,analysis
+2026-06-17,Faxaflói,64.333,-22.583,11.58,analysis
+2026-06-18,Faxaflói,64.333,-22.583,11.2,analysis
+2026-06-19,Faxaflói,64.333,-22.583,11.05,analysis
+2026-06-20,Faxaflói,64.333,-22.583,11.07,analysis
+2026-06-21,Faxaflói,64.333,-22.583,11.29,analysis
+2026-06-22,Faxaflói,64.333,-22.583,11.61,analysis
+2026-06-23,Faxaflói,64.333,-22.583,11.68,analysis
+2026-06-24,Faxaflói,64.333,-22.583,11.82,analysis
+2026-06-25,Faxaflói,64.333,-22.583,11.86,analysis
+2026-06-26,Faxaflói,64.333,-22.583,11.74,analysis
+2026-06-27,Faxaflói,64.333,-22.583,11.62,analysis
+2026-06-28,Faxaflói,64.333,-22.583,11.57,analysis
+2026-06-29,Faxaflói,64.333,-22.583,11.59,analysis
+2026-06-30,Faxaflói,64.333,-22.583,11.44,analysis
+2026-07-01,Faxaflói,64.333,-22.583,11.03,analysis
+2026-07-02,Faxaflói,64.333,-22.583,10.56,analysis
+2026-07-03,Faxaflói,64.333,-22.583,10.77,analysis
+2026-07-04,Faxaflói,64.333,-22.583,11.23,analysis
+2026-07-05,Faxaflói,64.333,-22.583,11.75,analysis
+2026-07-06,Faxaflói,64.333,-22.583,11.92,analysis
+2026-07-07,Faxaflói,64.333,-22.583,11.55,analysis
+2026-07-08,Faxaflói,64.333,-22.583,11.3,analysis
+2026-07-09,Faxaflói,64.333,-22.583,11.3,analysis
+2026-07-10,Faxaflói,64.333,-22.583,11.22,analysis
+2026-07-11,Faxaflói,64.333,-22.583,11.05,analysis
+2026-07-12,Faxaflói,64.333,-22.583,10.82,analysis
+2026-07-13,Faxaflói,64.333,-22.583,10.69,analysis
+2026-07-14,Faxaflói,64.333,-22.583,10.7,analysis
+2026-07-15,Faxaflói,64.333,-22.583,10.72,analysis
+2026-07-16,Faxaflói,64.333,-22.583,10.6,analysis
+2026-07-17,Faxaflói,64.333,-22.583,10.8,analysis
+2026-07-18,Faxaflói,64.333,-22.583,11.08,analysis
+2026-07-19,Faxaflói,64.333,-22.583,11.15,analysis
+2026-07-20,Faxaflói,64.333,-22.583,11.07,analysis
+2026-07-21,Faxaflói,64.333,-22.583,11.09,analysis
+2026-07-22,Faxaflói,64.333,-22.583,11.07,analysis
+2026-07-23,Faxaflói,64.333,-22.583,11.02,analysis
+2026-07-24,Faxaflói,64.333,-22.583,11.25,analysis
+2026-07-25,Faxaflói,64.333,-22.583,11.28,analysis
+2026-07-26,Faxaflói,64.333,-22.583,11.5,analysis
+2026-07-27,Faxaflói,64.333,-22.583,11.68,analysis
+2026-07-28,Faxaflói,64.333,-22.583,11.8,analysis
+2026-07-29,Faxaflói,64.333,-22.583,11.73,analysis
+2026-07-30,Faxaflói,64.333,-22.583,11.8,analysis
+2026-07-31,Faxaflói,64.333,-22.583,12.08,analysis
+2026-08-01,Faxaflói,64.333,-22.583,12.27,analysis
+2026-08-02,Faxaflói,64.333,-22.583,12.46,analysis
+2026-08-03,Faxaflói,64.333,-22.583,12.52,analysis
+2026-08-04,Faxaflói,64.333,-22.583,12.66,analysis
+2026-08-05,Faxaflói,64.333,-22.583,12.64,analysis
+2026-08-06,Faxaflói,64.333,-22.583,12.67,analysis
+2026-08-07,Faxaflói,64.333,-22.583,12.64,analysis
+2026-08-08,Faxaflói,64.333,-22.583,12.27,analysis
+2026-08-09,Faxaflói,64.333,-22.583,12.07,analysis
+2026-08-10,Faxaflói,64.333,-22.583,12.5,analysis
+2026-08-11,Faxaflói,64.333,-22.583,12.62,analysis
+2026-08-12,Faxaflói,64.333,-22.583,12.59,analysis
+2026-08-13,Faxaflói,64.333,-22.583,12.8,analysis
+2026-08-14,Faxaflói,64.333,-22.583,12.37,analysis
+2026-08-15,Faxaflói,64.333,-22.583,12.4,analysis
+2026-08-16,Faxaflói,64.333,-22.583,12.57,analysis
+2026-08-17,Faxaflói,64.333,-22.583,12.39,analysis
+2026-08-18,Faxaflói,64.333,-22.583,12.54,analysis
+2026-08-19,Faxaflói,64.333,-22.583,12.43,analysis
+2026-08-20,Faxaflói,64.333,-22.583,12.4,analysis
+2026-08-21,Faxaflói,64.333,-22.583,12.13,analysis
+2026-08-22,Faxaflói,64.333,-22.583,11.49,analysis
+2026-08-23,Faxaflói,64.333,-22.583,11.32,analysis
+2026-08-24,Faxaflói,64.333,-22.583,11.21,analysis
+2026-08-25,Faxaflói,64.333,-22.583,11.14,analysis
+2026-08-26,Faxaflói,64.333,-22.583,11.17,analysis
+2026-08-27,Faxaflói,64.333,-22.583,11.12,analysis
+2026-08-28,Faxaflói,64.333,-22.583,11.19,analysis
+2026-08-29,Faxaflói,64.333,-22.583,11.2,analysis
+2026-08-30,Faxaflói,64.333,-22.583,11.19,analysis
+2026-08-31,Faxaflói,64.333,-22.583,11.22,analysis
+2026-09-01,Faxaflói,64.333,-22.583,11.22,analysis
+2026-09-02,Faxaflói,64.333,-22.583,11.14,analysis
+2026-09-03,Faxaflói,64.333,-22.583,11.11,analysis
+2026-09-04,Faxaflói,64.333,-22.583,11.11,analysis
+2026-09-05,Faxaflói,64.333,-22.583,11.17,analysis
+2026-09-06,Faxaflói,64.333,-22.583,11.15,analysis
+2026-09-07,Faxaflói,64.333,-22.583,10.96,analysis
+2026-09-08,Faxaflói,64.333,-22.583,11.03,analysis
+2026-09-09,Faxaflói,64.333,-22.583,11.03,analysis
+2026-09-10,Faxaflói,64.333,-22.583,11.07,analysis
+2026-09-11,Faxaflói,64.333,-22.583,11.01,analysis
+2026-09-12,Faxaflói,64.333,-22.583,10.98,analysis
+2026-09-13,Faxaflói,64.333,-22.583,10.94,analysis
+2026-09-14,Faxaflói,64.333,-22.583,10.94,analysis
+2026-09-15,Faxaflói,64.333,-22.583,10.82,analysis
+2026-09-16,Faxaflói,64.333,-22.583,10.87,analysis
+2026-09-17,Faxaflói,64.333,-22.583,10.91,analysis
+2026-09-18,Faxaflói,64.333,-22.583,10.78,analysis
+2026-09-19,Faxaflói,64.333,-22.583,10.84,analysis
+2026-09-20,Faxaflói,64.333,-22.583,10.82,analysis
+2026-09-21,Faxaflói,64.333,-22.583,10.8,analysis
+2026-09-22,Faxaflói,64.333,-22.583,10.85,analysis
+2026-09-23,Faxaflói,64.333,-22.583,10.73,analysis
+2026-09-24,Faxaflói,64.333,-22.583,10.63,analysis
+2026-09-25,Faxaflói,64.333,-22.583,10.54,analysis
+2026-09-26,Faxaflói,64.333,-22.583,10.4,analysis
+2026-09-27,Faxaflói,64.333,-22.583,10.28,analysis
+2026-09-28,Faxaflói,64.333,-22.583,10.21,analysis
+2026-09-29,Faxaflói,64.333,-22.583,10.15,analysis
+2026-09-30,Faxaflói,64.333,-22.583,10.14,analysis
+2026-10-01,Faxaflói,64.333,-22.583,10.11,analysis
+2026-10-02,Faxaflói,64.333,-22.583,10.12,analysis
+2026-10-03,Faxaflói,64.333,-22.583,10.1,analysis
+2026-10-04,Faxaflói,64.333,-22.583,10.08,analysis
+2026-10-05,Faxaflói,64.333,-22.583,9.94,analysis
+2026-10-06,Faxaflói,64.333,-22.583,9.85,analysis
+2026-10-07,Faxaflói,64.333,-22.583,9.82,analysis
+2026-10-08,Faxaflói,64.333,-22.583,9.75,analysis
+2026-10-09,Faxaflói,64.333,-22.583,9.71,analysis
+2026-10-10,Faxaflói,64.333,-22.583,9.69,analysis
+2026-10-11,Faxaflói,64.333,-22.583,9.57,analysis
+2026-10-12,Faxaflói,64.333,-22.583,9.51,analysis
+2026-10-13,Faxaflói,64.333,-22.583,9.47,analysis
+2026-10-14,Faxaflói,64.333,-22.583,9.43,forecast
+2026-10-15,Faxaflói,64.333,-22.583,9.39,forecast
+2026-10-16,Faxaflói,64.333,-22.583,9.23,forecast
+2026-10-17,Faxaflói,64.333,-22.583,9.19,forecast
+2026-10-18,Faxaflói,64.333,-22.583,9.09,forecast
+2026-10-19,Faxaflói,64.333,-22.583,9.18,forecast
+2026-10-20,Faxaflói,64.333,-22.583,9.11,forecast
+2026-10-21,Faxaflói,64.333,-22.583,9.04,forecast
+2026-10-22,Faxaflói,64.333,-22.583,9.06,forecast
+2026-04-16,North (Eyjafjörður),66.5,-18.417,3.45,analysis
+2026-04-17,North (Eyjafjörður),66.5,-18.417,3.57,analysis
+2026-04-18,North (Eyjafjörður),66.5,-18.417,3.62,analysis
+2026-04-19,North (Eyjafjörður),66.5,-18.417,3.65,analysis
+2026-04-20,North (Eyjafjörður),66.5,-18.417,3.77,analysis
+2026-04-21,North (Eyjafjörður),66.5,-18.417,3.67,analysis
+2026-04-22,North (Eyjafjörður),66.5,-18.417,3.63,analysis
+2026-04-23,North (Eyjafjörður),66.5,-18.417,3.8,analysis
+2026-04-24,North (Eyjafjörður),66.5,-18.417,3.82,analysis
+2026-04-25,North (Eyjafjörður),66.5,-18.417,3.77,analysis
+2026-04-26,North (Eyjafjörður),66.5,-18.417,3.88,analysis
+2026-04-27,North (Eyjafjörður),66.5,-18.417,3.95,analysis
+2026-04-28,North (Eyjafjörður),66.5,-18.417,4.07,analysis
+2026-04-29,North (Eyjafjörður),66.5,-18.417,4.03,analysis
+2026-04-30,North (Eyjafjörður),66.5,-18.417,4.0,analysis
+2026-05-01,North (Eyjafjörður),66.5,-18.417,3.91,analysis
+2026-05-02,North (Eyjafjörður),66.5,-18.417,3.83,analysis
+2026-05-03,North (Eyjafjörður),66.5,-18.417,3.86,analysis
+2026-05-04,North (Eyjafjörður),66.5,-18.417,3.82,analysis
+2026-05-05,North (Eyjafjörður),66.5,-18.417,3.77,analysis
+2026-05-06,North (Eyjafjörður),66.5,-18.417,3.73,analysis
+2026-05-07,North (Eyjafjörður),66.5,-18.417,3.71,analysis
+2026-05-08,North (Eyjafjörður),66.5,-18.417,3.78,analysis
+2026-05-09,North (Eyjafjörður),66.5,-18.417,3.88,analysis
+2026-05-10,North (Eyjafjörður),66.5,-18.417,3.91,analysis
+2026-05-11,North (Eyjafjörður),66.5,-18.417,3.96,analysis
+2026-05-12,North (Eyjafjörður),66.5,-18.417,3.94,analysis
+2026-05-13,North (Eyjafjörður),66.5,-18.417,4.07,analysis
+2026-05-14,North (Eyjafjörður),66.5,-18.417,4.22,analysis
+2026-05-15,North (Eyjafjörður),66.5,-18.417,4.38,analysis
+2026-05-16,North (Eyjafjörður),66.5,-18.417,4.45,analysis
+2026-05-17,North (Eyjafjörður),66.5,-18.417,4.37,analysis
+2026-05-18,North (Eyjafjörður),66.5,-18.417,4.48,analysis
+2026-05-19,North (Eyjafjörður),66.5,-18.417,4.69,analysis
+2026-05-20,North (Eyjafjörður),66.5,-18.417,4.81,analysis
+2026-05-21,North (Eyjafjörður),66.5,-18.417,4.9,analysis
+2026-05-22,North (Eyjafjörður),66.5,-18.417,4.79,analysis
+2026-05-23,North (Eyjafjörður),66.5,-18.417,4.82,analysis
+2026-05-24,North (Eyjafjörður),66.5,-18.417,4.99,analysis
+2026-05-25,North (Eyjafjörður),66.5,-18.417,5.39,analysis
+2026-05-26,North (Eyjafjörður),66.5,-18.417,5.6,analysis
+2026-05-27,North (Eyjafjörður),66.5,-18.417,5.57,analysis
+2026-05-28,North (Eyjafjörður),66.5,-18.417,5.31,analysis
+2026-05-29,North (Eyjafjörður),66.5,-18.417,4.92,analysis
+2026-05-30,North (Eyjafjörður),66.5,-18.417,4.87,analysis
+2026-05-31,North (Eyjafjörður),66.5,-18.417,4.91,analysis
+2026-06-01,North (Eyjafjörður),66.5,-18.417,5.17,analysis
+2026-06-02,North (Eyjafjörður),66.5,-18.417,5.6,analysis
+2026-06-03,North (Eyjafjörður),66.5,-18.417,5.78,analysis
+2026-06-04,North (Eyjafjörður),66.5,-18.417,5.86,analysis
+2026-06-05,North (Eyjafjörður),66.5,-18.417,5.95,analysis
+2026-06-06,North (Eyjafjörður),66.5,-18.417,6.22,analysis
+2026-06-07,North (Eyjafjörður),66.5,-18.417,6.27,analysis
+2026-06-08,North (Eyjafjörður),66.5,-18.417,6.03,analysis
+2026-06-09,North (Eyjafjörður),66.5,-18.417,6.14,analysis
+2026-06-10,North (Eyjafjörður),66.5,-18.417,6.34,analysis
+2026-06-11,North (Eyjafjörður),66.5,-18.417,6.57,analysis
+2026-06-12,North (Eyjafjörður),66.5,-18.417,6.48,analysis
+2026-06-13,North (Eyjafjörður),66.5,-18.417,6.75,analysis
+2026-06-14,North (Eyjafjörður),66.5,-18.417,7.0,analysis
+2026-06-15,North (Eyjafjörður),66.5,-18.417,6.94,analysis
+2026-06-16,North (Eyjafjörður),66.5,-18.417,7.11,analysis
+2026-06-17,North (Eyjafjörður),66.5,-18.417,6.75,analysis
+2026-06-18,North (Eyjafjörður),66.5,-18.417,6.5,analysis
+2026-06-19,North (Eyjafjörður),66.5,-18.417,6.19,analysis
+2026-06-20,North (Eyjafjörður),66.5,-18.417,6.03,analysis
+2026-06-21,North (Eyjafjörður),66.5,-18.417,6.33,analysis
+2026-06-22,North (Eyjafjörður),66.5,-18.417,6.79,analysis
+2026-06-23,North (Eyjafjörður),66.5,-18.417,6.88,analysis
+2026-06-24,North (Eyjafjörður),66.5,-18.417,7.07,analysis
+2026-06-25,North (Eyjafjörður),66.5,-18.417,7.37,analysis
+2026-06-26,North (Eyjafjörður),66.5,-18.417,7.37,analysis
+2026-06-27,North (Eyjafjörður),66.5,-18.417,7.29,analysis
+2026-06-28,North (Eyjafjörður),66.5,-18.417,6.91,analysis
+2026-06-29,North (Eyjafjörður),66.5,-18.417,7.04,analysis
+2026-06-30,North (Eyjafjörður),66.5,-18.417,7.35,analysis
+2026-07-01,North (Eyjafjörður),66.5,-18.417,7.83,analysis
+2026-07-02,North (Eyjafjörður),66.5,-18.417,8.05,analysis
+2026-07-03,North (Eyjafjörður),66.5,-18.417,7.75,analysis
+2026-07-04,North (Eyjafjörður),66.5,-18.417,7.6,analysis
+2026-07-05,North (Eyjafjörður),66.5,-18.417,7.78,analysis
+2026-07-06,North (Eyjafjörður),66.5,-18.417,7.85,analysis
+2026-07-07,North (Eyjafjörður),66.5,-18.417,8.01,analysis
+2026-07-08,North (Eyjafjörður),66.5,-18.417,8.5,analysis
+2026-07-09,North (Eyjafjörður),66.5,-18.417,8.98,analysis
+2026-07-10,North (Eyjafjörður),66.5,-18.417,8.93,analysis
+2026-07-11,North (Eyjafjörður),66.5,-18.417,9.05,analysis
+2026-07-12,North (Eyjafjörður),66.5,-18.417,9.08,analysis
+2026-07-13,North (Eyjafjörður),66.5,-18.417,9.39,analysis
+2026-07-14,North (Eyjafjörður),66.5,-18.417,9.41,analysis
+2026-07-15,North (Eyjafjörður),66.5,-18.417,8.91,analysis
+2026-07-16,North (Eyjafjörður),66.5,-18.417,8.28,analysis
+2026-07-17,North (Eyjafjörður),66.5,-18.417,8.31,analysis
+2026-07-18,North (Eyjafjörður),66.5,-18.417,8.31,analysis
+2026-07-19,North (Eyjafjörður),66.5,-18.417,8.05,analysis
+2026-07-20,North (Eyjafjörður),66.5,-18.417,8.05,analysis
+2026-07-21,North (Eyjafjörður),66.5,-18.417,8.26,analysis
+2026-07-22,North (Eyjafjörður),66.5,-18.417,8.33,analysis
+2026-07-23,North (Eyjafjörður),66.5,-18.417,8.23,analysis
+2026-07-24,North (Eyjafjörður),66.5,-18.417,8.51,analysis
+2026-07-25,North (Eyjafjörður),66.5,-18.417,8.44,analysis
+2026-07-26,North (Eyjafjörður),66.5,-18.417,8.53,analysis
+2026-07-27,North (Eyjafjörður),66.5,-18.417,8.74,analysis
+2026-07-28,North (Eyjafjörður),66.5,-18.417,8.84,analysis
+2026-07-29,North (Eyjafjörður),66.5,-18.417,8.85,analysis
+2026-07-30,North (Eyjafjörður),66.5,-18.417,8.77,analysis
+2026-07-31,North (Eyjafjörður),66.5,-18.417,8.49,analysis
+2026-08-01,North (Eyjafjörður),66.5,-18.417,8.24,analysis
+2026-08-02,North (Eyjafjörður),66.5,-18.417,8.01,analysis
+2026-08-03,North (Eyjafjörður),66.5,-18.417,8.0,analysis
+2026-08-04,North (Eyjafjörður),66.5,-18.417,7.91,analysis
+2026-08-05,North (Eyjafjörður),66.5,-18.417,7.86,analysis
+2026-08-06,North (Eyjafjörður),66.5,-18.417,7.85,analysis
+2026-08-07,North (Eyjafjörður),66.5,-18.417,7.74,analysis
+2026-08-08,North (Eyjafjörður),66.5,-18.417,7.73,analysis
+2026-08-09,North (Eyjafjörður),66.5,-18.417,7.68,analysis
+2026-08-10,North (Eyjafjörður),66.5,-18.417,7.55,analysis
+2026-08-11,North (Eyjafjörður),66.5,-18.417,7.73,analysis
+2026-08-12,North (Eyjafjörður),66.5,-18.417,7.92,analysis
+2026-08-13,North (Eyjafjörður),66.5,-18.417,8.27,analysis
+2026-08-14,North (Eyjafjörður),66.5,-18.417,8.34,analysis
+2026-08-15,North (Eyjafjörður),66.5,-18.417,8.48,analysis
+2026-08-16,North (Eyjafjörður),66.5,-18.417,8.49,analysis
+2026-08-17,North (Eyjafjörður),66.5,-18.417,8.36,analysis
+2026-08-18,North (Eyjafjörður),66.5,-18.417,8.14,analysis
+2026-08-19,North (Eyjafjörður),66.5,-18.417,7.86,analysis
+2026-08-20,North (Eyjafjörður),66.5,-18.417,7.8,analysis
+2026-08-21,North (Eyjafjörður),66.5,-18.417,7.84,analysis
+2026-08-22,North (Eyjafjörður),66.5,-18.417,7.79,analysis
+2026-08-23,North (Eyjafjörður),66.5,-18.417,7.77,analysis
+2026-08-24,North (Eyjafjörður),66.5,-18.417,7.74,analysis
+2026-08-25,North (Eyjafjörður),66.5,-18.417,7.61,analysis
+2026-08-26,North (Eyjafjörður),66.5,-18.417,7.52,analysis
+2026-08-27,North (Eyjafjörður),66.5,-18.417,7.3,analysis
+2026-08-28,North (Eyjafjörður),66.5,-18.417,7.14,analysis
+2026-08-29,North (Eyjafjörður),66.5,-18.417,6.94,analysis
+2026-08-30,North (Eyjafjörður),66.5,-18.417,6.81,analysis
+2026-08-31,North (Eyjafjörður),66.5,-18.417,6.82,analysis
+2026-09-01,North (Eyjafjörður),66.5,-18.417,6.83,analysis
+2026-09-02,North (Eyjafjörður),66.5,-18.417,6.84,analysis
+2026-09-03,North (Eyjafjörður),66.5,-18.417,6.9,analysis
+2026-09-04,North (Eyjafjörður),66.5,-18.417,6.97,analysis
+2026-09-05,North (Eyjafjörður),66.5,-18.417,7.02,analysis
+2026-09-06,North (Eyjafjörður),66.5,-18.417,7.13,analysis
+2026-09-07,North (Eyjafjörður),66.5,-18.417,7.11,analysis
+2026-09-08,North (Eyjafjörður),66.5,-18.417,7.0,analysis
+2026-09-09,North (Eyjafjörður),66.5,-18.417,6.89,analysis
+2026-09-10,North (Eyjafjörður),66.5,-18.417,7.09,analysis
+2026-09-11,North (Eyjafjörður),66.5,-18.417,7.0,analysis
+2026-09-12,North (Eyjafjörður),66.5,-18.417,6.72,analysis
+2026-09-13,North (Eyjafjörður),66.5,-18.417,6.89,analysis
+2026-09-14,North (Eyjafjörður),66.5,-18.417,7.0,analysis
+2026-09-15,North (Eyjafjörður),66.5,-18.417,6.99,analysis
+2026-09-16,North (Eyjafjörður),66.5,-18.417,6.88,analysis
+2026-09-17,North (Eyjafjörður),66.5,-18.417,6.88,analysis
+2026-09-18,North (Eyjafjörður),66.5,-18.417,7.01,analysis
+2026-09-19,North (Eyjafjörður),66.5,-18.417,7.1,analysis
+2026-09-20,North (Eyjafjörður),66.5,-18.417,7.18,analysis
+2026-09-21,North (Eyjafjörður),66.5,-18.417,7.16,analysis
+2026-09-22,North (Eyjafjörður),66.5,-18.417,7.23,analysis
+2026-09-23,North (Eyjafjörður),66.5,-18.417,7.25,analysis
+2026-09-24,North (Eyjafjörður),66.5,-18.417,7.17,analysis
+2026-09-25,North (Eyjafjörður),66.5,-18.417,7.05,analysis
+2026-09-26,North (Eyjafjörður),66.5,-18.417,7.01,analysis
+2026-09-27,North (Eyjafjörður),66.5,-18.417,7.01,analysis
+2026-09-28,North (Eyjafjörður),66.5,-18.417,7.01,analysis
+2026-09-29,North (Eyjafjörður),66.5,-18.417,7.06,analysis
+2026-09-30,North (Eyjafjörður),66.5,-18.417,7.06,analysis
+2026-10-01,North (Eyjafjörður),66.5,-18.417,6.94,analysis
+2026-10-02,North (Eyjafjörður),66.5,-18.417,6.75,analysis
+2026-10-03,North (Eyjafjörður),66.5,-18.417,6.75,analysis
+2026-10-04,North (Eyjafjörður),66.5,-18.417,7.02,analysis
+2026-10-05,North (Eyjafjörður),66.5,-18.417,7.16,analysis
+2026-10-06,North (Eyjafjörður),66.5,-18.417,7.04,analysis
+2026-10-07,North (Eyjafjörður),66.5,-18.417,6.87,analysis
+2026-10-08,North (Eyjafjörður),66.5,-18.417,6.73,analysis
+2026-10-09,North (Eyjafjörður),66.5,-18.417,6.65,analysis
+2026-10-10,North (Eyjafjörður),66.5,-18.417,6.68,analysis
+2026-10-11,North (Eyjafjörður),66.5,-18.417,6.7,analysis
+2026-10-12,North (Eyjafjörður),66.5,-18.417,6.88,analysis
+2026-10-13,North (Eyjafjörður),66.5,-18.417,6.9,analysis
+2026-10-14,North (Eyjafjörður),66.5,-18.417,6.93,forecast
+2026-10-15,North (Eyjafjörður),66.5,-18.417,6.9,forecast
+2026-10-16,North (Eyjafjörður),66.5,-18.417,6.84,forecast
+2026-10-17,North (Eyjafjörður),66.5,-18.417,6.79,forecast
+2026-10-18,North (Eyjafjörður),66.5,-18.417,6.79,forecast
+2026-10-19,North (Eyjafjörður),66.5,-18.417,6.65,forecast
+2026-10-20,North (Eyjafjörður),66.5,-18.417,6.36,forecast
+2026-10-21,North (Eyjafjörður),66.5,-18.417,6.48,forecast
+2026-10-22,North (Eyjafjörður),66.5,-18.417,6.54,forecast
+2026-04-16,South (Vestmannaeyjar),63.333,-20.333,7.85,analysis
+2026-04-17,South (Vestmannaeyjar),63.333,-20.333,7.87,analysis
+2026-04-18,South (Vestmannaeyjar),63.333,-20.333,7.77,analysis
+2026-04-19,South (Vestmannaeyjar),63.333,-20.333,7.73,analysis
+2026-04-20,South (Vestmannaeyjar),63.333,-20.333,7.9,analysis
+2026-04-21,South (Vestmannaeyjar),63.333,-20.333,8.0,analysis
+2026-04-22,South (Vestmannaeyjar),63.333,-20.333,7.99,analysis
+2026-04-23,South (Vestmannaeyjar),63.333,-20.333,8.04,analysis
+2026-04-24,South (Vestmannaeyjar),63.333,-20.333,8.08,analysis
+2026-04-25,South (Vestmannaeyjar),63.333,-20.333,8.03,analysis
+2026-04-26,South (Vestmannaeyjar),63.333,-20.333,8.01,analysis
+2026-04-27,South (Vestmannaeyjar),63.333,-20.333,8.0,analysis
+2026-04-28,South (Vestmannaeyjar),63.333,-20.333,7.96,analysis
+2026-04-29,South (Vestmannaeyjar),63.333,-20.333,7.88,analysis
+2026-04-30,South (Vestmannaeyjar),63.333,-20.333,7.79,analysis
+2026-05-01,South (Vestmannaeyjar),63.333,-20.333,7.74,analysis
+2026-05-02,South (Vestmannaeyjar),63.333,-20.333,7.76,analysis
+2026-05-03,South (Vestmannaeyjar),63.333,-20.333,7.8,analysis
+2026-05-04,South (Vestmannaeyjar),63.333,-20.333,7.81,analysis
+2026-05-05,South (Vestmannaeyjar),63.333,-20.333,7.74,analysis
+2026-05-06,South (Vestmannaeyjar),63.333,-20.333,7.85,analysis
+2026-05-07,South (Vestmannaeyjar),63.333,-20.333,7.91,analysis
+2026-05-08,South (Vestmannaeyjar),63.333,-20.333,7.87,analysis
+2026-05-09,South (Vestmannaeyjar),63.333,-20.333,7.87,analysis
+2026-05-10,South (Vestmannaeyjar),63.333,-20.333,7.92,analysis
+2026-05-11,South (Vestmannaeyjar),63.333,-20.333,7.9,analysis
+2026-05-12,South (Vestmannaeyjar),63.333,-20.333,7.81,analysis
+2026-05-13,South (Vestmannaeyjar),63.333,-20.333,7.93,analysis
+2026-05-14,South (Vestmannaeyjar),63.333,-20.333,8.03,analysis
+2026-05-15,South (Vestmannaeyjar),63.333,-20.333,8.07,analysis
+2026-05-16,South (Vestmannaeyjar),63.333,-20.333,8.04,analysis
+2026-05-17,South (Vestmannaeyjar),63.333,-20.333,8.04,analysis
+2026-05-18,South (Vestmannaeyjar),63.333,-20.333,8.2,analysis
+2026-05-19,South (Vestmannaeyjar),63.333,-20.333,8.57,analysis
+2026-05-20,South (Vestmannaeyjar),63.333,-20.333,8.85,analysis
+2026-05-21,South (Vestmannaeyjar),63.333,-20.333,9.01,analysis
+2026-05-22,South (Vestmannaeyjar),63.333,-20.333,8.55,analysis
+2026-05-23,South (Vestmannaeyjar),63.333,-20.333,8.55,analysis
+2026-05-24,South (Vestmannaeyjar),63.333,-20.333,8.64,analysis
+2026-05-25,South (Vestmannaeyjar),63.333,-20.333,8.73,analysis
+2026-05-26,South (Vestmannaeyjar),63.333,-20.333,8.87,analysis
+2026-05-27,South (Vestmannaeyjar),63.333,-20.333,8.98,analysis
+2026-05-28,South (Vestmannaeyjar),63.333,-20.333,8.96,analysis
+2026-05-29,South (Vestmannaeyjar),63.333,-20.333,8.83,analysis
+2026-05-30,South (Vestmannaeyjar),63.333,-20.333,8.77,analysis
+2026-05-31,South (Vestmannaeyjar),63.333,-20.333,8.77,analysis
+2026-06-01,South (Vestmannaeyjar),63.333,-20.333,9.02,analysis
+2026-06-02,South (Vestmannaeyjar),63.333,-20.333,9.37,analysis
+2026-06-03,South (Vestmannaeyjar),63.333,-20.333,9.37,analysis
+2026-06-04,South (Vestmannaeyjar),63.333,-20.333,9.82,analysis
+2026-06-05,South (Vestmannaeyjar),63.333,-20.333,9.78,analysis
+2026-06-06,South (Vestmannaeyjar),63.333,-20.333,9.66,analysis
+2026-06-07,South (Vestmannaeyjar),63.333,-20.333,9.8,analysis
+2026-06-08,South (Vestmannaeyjar),63.333,-20.333,10.2,analysis
+2026-06-09,South (Vestmannaeyjar),63.333,-20.333,10.28,analysis
+2026-06-10,South (Vestmannaeyjar),63.333,-20.333,9.89,analysis
+2026-06-11,South (Vestmannaeyjar),63.333,-20.333,9.87,analysis
+2026-06-12,South (Vestmannaeyjar),63.333,-20.333,9.99,analysis
+2026-06-13,South (Vestmannaeyjar),63.333,-20.333,10.16,analysis
+2026-06-14,South (Vestmannaeyjar),63.333,-20.333,10.74,analysis
+2026-06-15,South (Vestmannaeyjar),63.333,-20.333,10.52,analysis
+2026-06-16,South (Vestmannaeyjar),63.333,-20.333,9.97,analysis
+2026-06-17,South (Vestmannaeyjar),63.333,-20.333,10.07,analysis
+2026-06-18,South (Vestmannaeyjar),63.333,-20.333,10.08,analysis
+2026-06-19,South (Vestmannaeyjar),63.333,-20.333,10.34,analysis
+2026-06-20,South (Vestmannaeyjar),63.333,-20.333,10.99,analysis
+2026-06-21,South (Vestmannaeyjar),63.333,-20.333,11.31,analysis
+2026-06-22,South (Vestmannaeyjar),63.333,-20.333,11.57,analysis
+2026-06-23,South (Vestmannaeyjar),63.333,-20.333,11.0,analysis
+2026-06-24,South (Vestmannaeyjar),63.333,-20.333,10.8,analysis
+2026-06-25,South (Vestmannaeyjar),63.333,-20.333,10.95,analysis
+2026-06-26,South (Vestmannaeyjar),63.333,-20.333,11.0,analysis
+2026-06-27,South (Vestmannaeyjar),63.333,-20.333,10.88,analysis
+2026-06-28,South (Vestmannaeyjar),63.333,-20.333,10.81,analysis
+2026-06-29,South (Vestmannaeyjar),63.333,-20.333,10.96,analysis
+2026-06-30,South (Vestmannaeyjar),63.333,-20.333,11.09,analysis
+2026-07-01,South (Vestmannaeyjar),63.333,-20.333,11.0,analysis
+2026-07-02,South (Vestmannaeyjar),63.333,-20.333,10.92,analysis
+2026-07-03,South (Vestmannaeyjar),63.333,-20.333,11.09,analysis
+2026-07-04,South (Vestmannaeyjar),63.333,-20.333,11.23,analysis
+2026-07-05,South (Vestmannaeyjar),63.333,-20.333,11.57,analysis
+2026-07-06,South (Vestmannaeyjar),63.333,-20.333,10.89,analysis
+2026-07-07,South (Vestmannaeyjar),63.333,-20.333,10.5,analysis
+2026-07-08,South (Vestmannaeyjar),63.333,-20.333,10.67,analysis
+2026-07-09,South (Vestmannaeyjar),63.333,-20.333,10.58,analysis
+2026-07-10,South (Vestmannaeyjar),63.333,-20.333,10.71,analysis
+2026-07-11,South (Vestmannaeyjar),63.333,-20.333,10.91,analysis
+2026-07-12,South (Vestmannaeyjar),63.333,-20.333,11.03,analysis
+2026-07-13,South (Vestmannaeyjar),63.333,-20.333,10.95,analysis
+2026-07-14,South (Vestmannaeyjar),63.333,-20.333,10.86,analysis
+2026-07-15,South (Vestmannaeyjar),63.333,-20.333,10.81,analysis
+2026-07-16,South (Vestmannaeyjar),63.333,-20.333,10.92,analysis
+2026-07-17,South (Vestmannaeyjar),63.333,-20.333,11.0,analysis
+2026-07-18,South (Vestmannaeyjar),63.333,-20.333,11.15,analysis
+2026-07-19,South (Vestmannaeyjar),63.333,-20.333,11.33,analysis
+2026-07-20,South (Vestmannaeyjar),63.333,-20.333,11.44,analysis
+2026-07-21,South (Vestmannaeyjar),63.333,-20.333,11.48,analysis
+2026-07-22,South (Vestmannaeyjar),63.333,-20.333,11.45,analysis
+2026-07-23,South (Vestmannaeyjar),63.333,-20.333,11.25,analysis
+2026-07-24,South (Vestmannaeyjar),63.333,-20.333,11.2,analysis
+2026-07-25,South (Vestmannaeyjar),63.333,-20.333,11.3,analysis
+2026-07-26,South (Vestmannaeyjar),63.333,-20.333,11.65,analysis
+2026-07-27,South (Vestmannaeyjar),63.333,-20.333,12.09,analysis
+2026-07-28,South (Vestmannaeyjar),63.333,-20.333,12.22,analysis
+2026-07-29,South (Vestmannaeyjar),63.333,-20.333,12.08,analysis
+2026-07-30,South (Vestmannaeyjar),63.333,-20.333,12.0,analysis
+2026-07-31,South (Vestmannaeyjar),63.333,-20.333,11.77,analysis
+2026-08-01,South (Vestmannaeyjar),63.333,-20.333,11.59,analysis
+2026-08-02,South (Vestmannaeyjar),63.333,-20.333,11.56,analysis
+2026-08-03,South (Vestmannaeyjar),63.333,-20.333,11.69,analysis
+2026-08-04,South (Vestmannaeyjar),63.333,-20.333,11.7,analysis
+2026-08-05,South (Vestmannaeyjar),63.333,-20.333,11.67,analysis
+2026-08-06,South (Vestmannaeyjar),63.333,-20.333,11.74,analysis
+2026-08-07,South (Vestmannaeyjar),63.333,-20.333,11.82,analysis
+2026-08-08,South (Vestmannaeyjar),63.333,-20.333,12.04,analysis
+2026-08-09,South (Vestmannaeyjar),63.333,-20.333,12.26,analysis
+2026-08-10,South (Vestmannaeyjar),63.333,-20.333,12.52,analysis
+2026-08-11,South (Vestmannaeyjar),63.333,-20.333,12.52,analysis
+2026-08-12,South (Vestmannaeyjar),63.333,-20.333,12.38,analysis
+2026-08-13,South (Vestmannaeyjar),63.333,-20.333,12.66,analysis
+2026-08-14,South (Vestmannaeyjar),63.333,-20.333,12.66,analysis
+2026-08-15,South (Vestmannaeyjar),63.333,-20.333,12.91,analysis
+2026-08-16,South (Vestmannaeyjar),63.333,-20.333,13.11,analysis
+2026-08-17,South (Vestmannaeyjar),63.333,-20.333,12.62,analysis
+2026-08-18,South (Vestmannaeyjar),63.333,-20.333,12.24,analysis
+2026-08-19,South (Vestmannaeyjar),63.333,-20.333,12.52,analysis
+2026-08-20,South (Vestmannaeyjar),63.333,-20.333,12.53,analysis
+2026-08-21,South (Vestmannaeyjar),63.333,-20.333,12.48,analysis
+2026-08-22,South (Vestmannaeyjar),63.333,-20.333,12.42,analysis
+2026-08-23,South (Vestmannaeyjar),63.333,-20.333,12.32,analysis
+2026-08-24,South (Vestmannaeyjar),63.333,-20.333,12.26,analysis
+2026-08-25,South (Vestmannaeyjar),63.333,-20.333,12.2,analysis
+2026-08-26,South (Vestmannaeyjar),63.333,-20.333,12.14,analysis
+2026-08-27,South (Vestmannaeyjar),63.333,-20.333,12.08,analysis
+2026-08-28,South (Vestmannaeyjar),63.333,-20.333,12.05,analysis
+2026-08-29,South (Vestmannaeyjar),63.333,-20.333,11.99,analysis
+2026-08-30,South (Vestmannaeyjar),63.333,-20.333,12.01,analysis
+2026-08-31,South (Vestmannaeyjar),63.333,-20.333,12.12,analysis
+2026-09-01,South (Vestmannaeyjar),63.333,-20.333,12.28,analysis
+2026-09-02,South (Vestmannaeyjar),63.333,-20.333,12.19,analysis
+2026-09-03,South (Vestmannaeyjar),63.333,-20.333,11.92,analysis
+2026-09-04,South (Vestmannaeyjar),63.333,-20.333,11.98,analysis
+2026-09-05,South (Vestmannaeyjar),63.333,-20.333,12.03,analysis
+2026-09-06,South (Vestmannaeyjar),63.333,-20.333,12.01,analysis
+2026-09-07,South (Vestmannaeyjar),63.333,-20.333,12.02,analysis
+2026-09-08,South (Vestmannaeyjar),63.333,-20.333,12.02,analysis
+2026-09-09,South (Vestmannaeyjar),63.333,-20.333,11.92,analysis
+2026-09-10,South (Vestmannaeyjar),63.333,-20.333,11.91,analysis
+2026-09-11,South (Vestmannaeyjar),63.333,-20.333,11.62,analysis
+2026-09-12,South (Vestmannaeyjar),63.333,-20.333,11.33,analysis
+2026-09-13,South (Vestmannaeyjar),63.333,-20.333,11.32,analysis
+2026-09-14,South (Vestmannaeyjar),63.333,-20.333,11.49,analysis
+2026-09-15,South (Vestmannaeyjar),63.333,-20.333,11.38,analysis
+2026-09-16,South (Vestmannaeyjar),63.333,-20.333,11.32,analysis
+2026-09-17,South (Vestmannaeyjar),63.333,-20.333,11.18,analysis
+2026-09-18,South (Vestmannaeyjar),63.333,-20.333,11.02,analysis
+2026-09-19,South (Vestmannaeyjar),63.333,-20.333,10.99,analysis
+2026-09-20,South (Vestmannaeyjar),63.333,-20.333,10.89,analysis
+2026-09-21,South (Vestmannaeyjar),63.333,-20.333,10.81,analysis
+2026-09-22,South (Vestmannaeyjar),63.333,-20.333,10.65,analysis
+2026-09-23,South (Vestmannaeyjar),63.333,-20.333,10.51,analysis
+2026-09-24,South (Vestmannaeyjar),63.333,-20.333,10.37,analysis
+2026-09-25,South (Vestmannaeyjar),63.333,-20.333,10.32,analysis
+2026-09-26,South (Vestmannaeyjar),63.333,-20.333,10.34,analysis
+2026-09-27,South (Vestmannaeyjar),63.333,-20.333,10.38,analysis
+2026-09-28,South (Vestmannaeyjar),63.333,-20.333,10.39,analysis
+2026-09-29,South (Vestmannaeyjar),63.333,-20.333,10.44,analysis
+2026-09-30,South (Vestmannaeyjar),63.333,-20.333,10.41,analysis
+2026-10-01,South (Vestmannaeyjar),63.333,-20.333,10.38,analysis
+2026-10-02,South (Vestmannaeyjar),63.333,-20.333,10.32,analysis
+2026-10-03,South (Vestmannaeyjar),63.333,-20.333,10.27,analysis
+2026-10-04,South (Vestmannaeyjar),63.333,-20.333,10.2,analysis
+2026-10-05,South (Vestmannaeyjar),63.333,-20.333,10.14,analysis
+2026-10-06,South (Vestmannaeyjar),63.333,-20.333,9.97,analysis
+2026-10-07,South (Vestmannaeyjar),63.333,-20.333,9.93,analysis
+2026-10-08,South (Vestmannaeyjar),63.333,-20.333,9.9,analysis
+2026-10-09,South (Vestmannaeyjar),63.333,-20.333,9.84,analysis
+2026-10-10,South (Vestmannaeyjar),63.333,-20.333,9.77,analysis
+2026-10-11,South (Vestmannaeyjar),63.333,-20.333,9.67,analysis
+2026-10-12,South (Vestmannaeyjar),63.333,-20.333,9.62,analysis
+2026-10-13,South (Vestmannaeyjar),63.333,-20.333,9.55,analysis
+2026-10-14,South (Vestmannaeyjar),63.333,-20.333,9.49,forecast
+2026-10-15,South (Vestmannaeyjar),63.333,-20.333,9.32,forecast
+2026-10-16,South (Vestmannaeyjar),63.333,-20.333,9.24,forecast
+2026-10-17,South (Vestmannaeyjar),63.333,-20.333,9.27,forecast
+2026-10-18,South (Vestmannaeyjar),63.333,-20.333,9.24,forecast
+2026-10-19,South (Vestmannaeyjar),63.333,-20.333,9.3,forecast
+2026-10-20,South (Vestmannaeyjar),63.333,-20.333,9.28,forecast
+2026-10-21,South (Vestmannaeyjar),63.333,-20.333,9.25,forecast
+2026-10-22,South (Vestmannaeyjar),63.333,-20.333,9.23,forecast
+2026-04-16,Westfjords,66.417,-24.0,4.35,analysis
+2026-04-17,Westfjords,66.417,-24.0,4.5,analysis
+2026-04-18,Westfjords,66.417,-24.0,4.53,analysis
+2026-04-19,Westfjords,66.417,-24.0,4.55,analysis
+2026-04-20,Westfjords,66.417,-24.0,4.74,analysis
+2026-04-21,Westfjords,66.417,-24.0,4.85,analysis
+2026-04-22,Westfjords,66.417,-24.0,4.94,analysis
+2026-04-23,Westfjords,66.417,-24.0,5.02,analysis
+2026-04-24,Westfjords,66.417,-24.0,5.04,analysis
+2026-04-25,Westfjords,66.417,-24.0,4.87,analysis
+2026-04-26,Westfjords,66.417,-24.0,4.96,analysis
+2026-04-27,Westfjords,66.417,-24.0,4.94,analysis
+2026-04-28,Westfjords,66.417,-24.0,4.99,analysis
+2026-04-29,Westfjords,66.417,-24.0,5.06,analysis
+2026-04-30,Westfjords,66.417,-24.0,5.14,analysis
+2026-05-01,Westfjords,66.417,-24.0,5.09,analysis
+2026-05-02,Westfjords,66.417,-24.0,5.1,analysis
+2026-05-03,Westfjords,66.417,-24.0,5.23,analysis
+2026-05-04,Westfjords,66.417,-24.0,5.12,analysis
+2026-05-05,Westfjords,66.417,-24.0,4.91,analysis
+2026-05-06,Westfjords,66.417,-24.0,4.86,analysis
+2026-05-07,Westfjords,66.417,-24.0,5.03,analysis
+2026-05-08,Westfjords,66.417,-24.0,5.22,analysis
+2026-05-09,Westfjords,66.417,-24.0,5.43,analysis
+2026-05-10,Westfjords,66.417,-24.0,5.36,analysis
+2026-05-11,Westfjords,66.417,-24.0,5.31,analysis
+2026-05-12,Westfjords,66.417,-24.0,5.4,analysis
+2026-05-13,Westfjords,66.417,-24.0,5.4,analysis
+2026-05-14,Westfjords,66.417,-24.0,5.57,analysis
+2026-05-15,Westfjords,66.417,-24.0,5.71,analysis
+2026-05-16,Westfjords,66.417,-24.0,5.63,analysis
+2026-05-17,Westfjords,66.417,-24.0,5.77,analysis
+2026-05-18,Westfjords,66.417,-24.0,6.06,analysis
+2026-05-19,Westfjords,66.417,-24.0,6.12,analysis
+2026-05-20,Westfjords,66.417,-24.0,6.12,analysis
+2026-05-21,Westfjords,66.417,-24.0,6.04,analysis
+2026-05-22,Westfjords,66.417,-24.0,5.89,analysis
+2026-05-23,Westfjords,66.417,-24.0,5.92,analysis
+2026-05-24,Westfjords,66.417,-24.0,5.97,analysis
+2026-05-25,Westfjords,66.417,-24.0,6.35,analysis
+2026-05-26,Westfjords,66.417,-24.0,6.37,analysis
+2026-05-27,Westfjords,66.417,-24.0,6.28,analysis
+2026-05-28,Westfjords,66.417,-24.0,6.12,analysis
+2026-05-29,Westfjords,66.417,-24.0,5.92,analysis
+2026-05-30,Westfjords,66.417,-24.0,5.72,analysis
+2026-05-31,Westfjords,66.417,-24.0,5.78,analysis
+2026-06-01,Westfjords,66.417,-24.0,6.18,analysis
+2026-06-02,Westfjords,66.417,-24.0,6.62,analysis
+2026-06-03,Westfjords,66.417,-24.0,6.5,analysis
+2026-06-04,Westfjords,66.417,-24.0,6.34,analysis
+2026-06-05,Westfjords,66.417,-24.0,6.29,analysis
+2026-06-06,Westfjords,66.417,-24.0,6.4,analysis
+2026-06-07,Westfjords,66.417,-24.0,6.69,analysis
+2026-06-08,Westfjords,66.417,-24.0,6.56,analysis
+2026-06-09,Westfjords,66.417,-24.0,6.36,analysis
+2026-06-10,Westfjords,66.417,-24.0,6.3,analysis
+2026-06-11,Westfjords,66.417,-24.0,6.35,analysis
+2026-06-12,Westfjords,66.417,-24.0,6.38,analysis
+2026-06-13,Westfjords,66.417,-24.0,6.56,analysis
+2026-06-14,Westfjords,66.417,-24.0,6.85,analysis
+2026-06-15,Westfjords,66.417,-24.0,7.03,analysis
+2026-06-16,Westfjords,66.417,-24.0,6.96,analysis
+2026-06-17,Westfjords,66.417,-24.0,6.72,analysis
+2026-06-18,Westfjords,66.417,-24.0,6.71,analysis
+2026-06-19,Westfjords,66.417,-24.0,6.71,analysis
+2026-06-20,Westfjords,66.417,-24.0,6.72,analysis
+2026-06-21,Westfjords,66.417,-24.0,6.84,analysis
+2026-06-22,Westfjords,66.417,-24.0,7.2,analysis
+2026-06-23,Westfjords,66.417,-24.0,7.38,analysis
+2026-06-24,Westfjords,66.417,-24.0,7.48,analysis
+2026-06-25,Westfjords,66.417,-24.0,7.78,analysis
+2026-06-26,Westfjords,66.417,-24.0,7.97,analysis
+2026-06-27,Westfjords,66.417,-24.0,8.13,analysis
+2026-06-28,Westfjords,66.417,-24.0,7.86,analysis
+2026-06-29,Westfjords,66.417,-24.0,7.92,analysis
+2026-06-30,Westfjords,66.417,-24.0,8.18,analysis
+2026-07-01,Westfjords,66.417,-24.0,8.34,analysis
+2026-07-02,Westfjords,66.417,-24.0,8.3,analysis
+2026-07-03,Westfjords,66.417,-24.0,8.13,analysis
+2026-07-04,Westfjords,66.417,-24.0,8.28,analysis
+2026-07-05,Westfjords,66.417,-24.0,8.55,analysis
+2026-07-06,Westfjords,66.417,-24.0,8.78,analysis
+2026-07-07,Westfjords,66.417,-24.0,8.89,analysis
+2026-07-08,Westfjords,66.417,-24.0,8.87,analysis
+2026-07-09,Westfjords,66.417,-24.0,8.92,analysis
+2026-07-10,Westfjords,66.417,-24.0,8.53,analysis
+2026-07-11,Westfjords,66.417,-24.0,8.08,analysis
+2026-07-12,Westfjords,66.417,-24.0,7.91,analysis
+2026-07-13,Westfjords,66.417,-24.0,7.86,analysis
+2026-07-14,Westfjords,66.417,-24.0,7.66,analysis
+2026-07-15,Westfjords,66.417,-24.0,7.66,analysis
+2026-07-16,Westfjords,66.417,-24.0,7.7,analysis
+2026-07-17,Westfjords,66.417,-24.0,7.51,analysis
+2026-07-18,Westfjords,66.417,-24.0,7.46,analysis
+2026-07-19,Westfjords,66.417,-24.0,7.48,analysis
+2026-07-20,Westfjords,66.417,-24.0,6.99,analysis
+2026-07-21,Westfjords,66.417,-24.0,6.08,analysis
+2026-07-22,Westfjords,66.417,-24.0,5.85,analysis
+2026-07-23,Westfjords,66.417,-24.0,6.42,analysis
+2026-07-24,Westfjords,66.417,-24.0,6.01,analysis
+2026-07-25,Westfjords,66.417,-24.0,6.56,analysis
+2026-07-26,Westfjords,66.417,-24.0,7.57,analysis
+2026-07-27,Westfjords,66.417,-24.0,7.11,analysis
+2026-07-28,Westfjords,66.417,-24.0,7.29,analysis
+2026-07-29,Westfjords,66.417,-24.0,7.82,analysis
+2026-07-30,Westfjords,66.417,-24.0,8.9,analysis
+2026-07-31,Westfjords,66.417,-24.0,9.41,analysis
+2026-08-01,Westfjords,66.417,-24.0,9.81,analysis
+2026-08-02,Westfjords,66.417,-24.0,10.32,analysis
+2026-08-03,Westfjords,66.417,-24.0,10.51,analysis
+2026-08-04,Westfjords,66.417,-24.0,10.88,analysis
+2026-08-05,Westfjords,66.417,-24.0,11.17,analysis
+2026-08-06,Westfjords,66.417,-24.0,10.88,analysis
+2026-08-07,Westfjords,66.417,-24.0,10.04,analysis
+2026-08-08,Westfjords,66.417,-24.0,10.06,analysis
+2026-08-09,Westfjords,66.417,-24.0,10.6,analysis
+2026-08-10,Westfjords,66.417,-24.0,10.26,analysis
+2026-08-11,Westfjords,66.417,-24.0,10.26,analysis
+2026-08-12,Westfjords,66.417,-24.0,10.48,analysis
+2026-08-13,Westfjords,66.417,-24.0,10.26,analysis
+2026-08-14,Westfjords,66.417,-24.0,10.09,analysis
+2026-08-15,Westfjords,66.417,-24.0,9.85,analysis
+2026-08-16,Westfjords,66.417,-24.0,9.72,analysis
+2026-08-17,Westfjords,66.417,-24.0,9.48,analysis
+2026-08-18,Westfjords,66.417,-24.0,9.22,analysis
+2026-08-19,Westfjords,66.417,-24.0,9.12,analysis
+2026-08-20,Westfjords,66.417,-24.0,9.3,analysis
+2026-08-21,Westfjords,66.417,-24.0,9.44,analysis
+2026-08-22,Westfjords,66.417,-24.0,9.59,analysis
+2026-08-23,Westfjords,66.417,-24.0,9.78,analysis
+2026-08-24,Westfjords,66.417,-24.0,9.74,analysis
+2026-08-25,Westfjords,66.417,-24.0,9.45,analysis
+2026-08-26,Westfjords,66.417,-24.0,9.24,analysis
+2026-08-27,Westfjords,66.417,-24.0,9.37,analysis
+2026-08-28,Westfjords,66.417,-24.0,9.11,analysis
+2026-08-29,Westfjords,66.417,-24.0,8.77,analysis
+2026-08-30,Westfjords,66.417,-24.0,8.86,analysis
+2026-08-31,Westfjords,66.417,-24.0,9.08,analysis
+2026-09-01,Westfjords,66.417,-24.0,8.96,analysis
+2026-09-02,Westfjords,66.417,-24.0,8.92,analysis
+2026-09-03,Westfjords,66.417,-24.0,8.67,analysis
+2026-09-04,Westfjords,66.417,-24.0,8.52,analysis
+2026-09-05,Westfjords,66.417,-24.0,8.61,analysis
+2026-09-06,Westfjords,66.417,-24.0,8.55,analysis
+2026-09-07,Westfjords,66.417,-24.0,8.4,analysis
+2026-09-08,Westfjords,66.417,-24.0,8.38,analysis
+2026-09-09,Westfjords,66.417,-24.0,8.36,analysis
+2026-09-10,Westfjords,66.417,-24.0,8.28,analysis
+2026-09-11,Westfjords,66.417,-24.0,8.19,analysis
+2026-09-12,Westfjords,66.417,-24.0,8.23,analysis
+2026-09-13,Westfjords,66.417,-24.0,8.56,analysis
+2026-09-14,Westfjords,66.417,-24.0,8.41,analysis
+2026-09-15,Westfjords,66.417,-24.0,8.41,analysis
+2026-09-16,Westfjords,66.417,-24.0,8.8,analysis
+2026-09-17,Westfjords,66.417,-24.0,8.89,analysis
+2026-09-18,Westfjords,66.417,-24.0,9.04,analysis
+2026-09-19,Westfjords,66.417,-24.0,8.94,analysis
+2026-09-20,Westfjords,66.417,-24.0,8.78,analysis
+2026-09-21,Westfjords,66.417,-24.0,8.69,analysis
+2026-09-22,Westfjords,66.417,-24.0,8.63,analysis
+2026-09-23,Westfjords,66.417,-24.0,8.49,analysis
+2026-09-24,Westfjords,66.417,-24.0,8.29,analysis
+2026-09-25,Westfjords,66.417,-24.0,7.84,analysis
+2026-09-26,Westfjords,66.417,-24.0,7.6,analysis
+2026-09-27,Westfjords,66.417,-24.0,7.57,analysis
+2026-09-28,Westfjords,66.417,-24.0,7.75,analysis
+2026-09-29,Westfjords,66.417,-24.0,7.63,analysis
+2026-09-30,Westfjords,66.417,-24.0,7.6,analysis
+2026-10-01,Westfjords,66.417,-24.0,7.86,analysis
+2026-10-02,Westfjords,66.417,-24.0,7.94,analysis
+2026-10-03,Westfjords,66.417,-24.0,7.62,analysis
+2026-10-04,Westfjords,66.417,-24.0,7.62,analysis
+2026-10-05,Westfjords,66.417,-24.0,7.62,analysis
+2026-10-06,Westfjords,66.417,-24.0,7.61,analysis
+2026-10-07,Westfjords,66.417,-24.0,7.51,analysis
+2026-10-08,Westfjords,66.417,-24.0,7.4,analysis
+2026-10-09,Westfjords,66.417,-24.0,7.37,analysis
+2026-10-10,Westfjords,66.417,-24.0,7.35,analysis
+2026-10-11,Westfjords,66.417,-24.0,7.45,analysis
+2026-10-12,Westfjords,66.417,-24.0,7.48,analysis
+2026-10-13,Westfjords,66.417,-24.0,7.25,analysis
+2026-10-14,Westfjords,66.417,-24.0,7.25,forecast
+2026-10-15,Westfjords,66.417,-24.0,7.18,forecast
+2026-10-16,Westfjords,66.417,-24.0,7.2,forecast
+2026-10-17,Westfjords,66.417,-24.0,7.21,forecast
+2026-10-18,Westfjords,66.417,-24.0,7.37,forecast
+2026-10-19,Westfjords,66.417,-24.0,7.28,forecast
+2026-10-20,Westfjords,66.417,-24.0,7.15,forecast
+2026-10-21,Westfjords,66.417,-24.0,7.16,forecast
+2026-10-22,Westfjords,66.417,-24.0,7.32,forecast

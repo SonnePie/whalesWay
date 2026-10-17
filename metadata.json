@@ -1,0 +1,6 @@
+{
+  "name": "WhaleWay - Icelandic Waters Whale-Risk Map & Speed Advisory",
+  "description": "Daily whale-strike risk map and vessel speed advisory for Icelandic waters derived from Copernicus Marine sea surface temperature data.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
